@@ -52,10 +52,6 @@ Run the app
 
 streamlit run app.py
 
-
-Open your browser and visit
-👉 http://localhost:8501
-
 🧩 How It Works
 
 Load the Iris dataset
